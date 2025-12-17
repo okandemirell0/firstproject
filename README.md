@@ -40,7 +40,7 @@ Bu projede aşağıdaki teknolojiler ve standartlar kullanılmıştır:
 Projeyi bilgisayarınıza klonlamak için:
 
 ```bash
-git clone [https://github.com/okandemirell0/Staking.git](https://github.com/KULLANICI_ADIN/REPO_ADIN.git)
+git clone [https://github.com/okandemirell0/Staking.git](https://github.com/okandemirell0/Staking.git)
 cd Staking
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 ENGLISH:
@@ -84,5 +84,5 @@ This decentralized application (dApp) logic simulates one of the core mechanisms
 To clone this repository to your local machine:
 
 ```bash
-git clone [https://github.com/okandemirell0/Staking.git](https://github.com/YOUR_USERNAME/REPO_NAME.git)
+git clone [https://github.com/okandemirell0/Staking.git](https://github.com/okandemirell0/Staking.git)
 cd Staking
