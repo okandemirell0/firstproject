@@ -40,8 +40,8 @@ Bu projede aşağıdaki teknolojiler ve standartlar kullanılmıştır:
 Projeyi bilgisayarınıza klonlamak için:
 
 ```bash
-git clone [https://github.com/okandemirell0/Staking.git](https://github.com/okandemirell0/Staking.git)
-cd Staking
+git clone [https://github.com/okandemirell0/firstproject.git](https://github.com/okandemirell0/firstproject.git)
+cd firstproject
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 ENGLISH:
 # ERC-20 Staking Smart Contract 🏦
@@ -84,5 +84,5 @@ This decentralized application (dApp) logic simulates one of the core mechanisms
 To clone this repository to your local machine:
 
 ```bash
-git clone [https://github.com/okandemirell0/Staking.git](https://github.com/okandemirell0/Staking.git)
+git clone [https://github.com/okandemirell0/firstproject.git](https://github.com/okandemirell0/firstproject.git)
 cd Staking
