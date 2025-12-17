@@ -85,4 +85,4 @@ To clone this repository to your local machine:
 
 ```bash
 git clone [https://github.com/okandemirell0/firstproject.git](https://github.com/okandemirell0/firstproject.git)
-cd Staking
+cd firstproject
